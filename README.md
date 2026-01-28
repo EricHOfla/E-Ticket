@@ -1,4 +1,4 @@
-Bus E-Ticket System
+**Bus E-Ticket System**
 
 A web-based Bus E-Ticket Booking System built with Laravel. Users can browse bus routes, book tickets, and receive tickets with QR codes for easy scanning during boarding. Admins can manage buses, routes, schedules, and track ticket sales.
 
